@@ -1,2 +1,2 @@
 # py-jpg-png-converter
-JPG to PNG converter using PIL library from Python
+JPG to PNG converter using pillow library from Python
